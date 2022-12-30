@@ -8,11 +8,11 @@ In the same directory as your `package.json` file, create or edit an `.npmrc` fi
 Packages registry URL and the account used:
 
 ```ini
-@steven-robertson:registry=https://npm.pkg.github.com
+@stever:registry=https://npm.pkg.github.com
 ```
 
 Add the package to your project using the following command line:
 
 ```console
-$ npm install @steven-robertson/react-ui-example
+$ npm install @stever/react-ui-example
 ```
